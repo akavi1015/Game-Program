@@ -1,0 +1,10 @@
+In order to play the game you must execute the Run class. The controls are simply:
+WASD to move.
+J to punch.
+K to kick.
+L to special.
+To win you must defeat all of Ramona's evil exes.
+
+I wrote this program for a 300-level computer science course at University of Maryland. The purpose of the course was to learn the process of game design and development and to completely program a game by the end of the semester.
+
+I am extremely proud of this project because I spent an entire semester working on it by myself. Though it is not the most impressive Java game I have seen; I think for fa semesters worth of work it is quite 
